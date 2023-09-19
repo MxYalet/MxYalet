@@ -1,7 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Owoyale Muhammed</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A679%2F0*fjgnxITadeJiT6Z6&tbnid=ZHM55s2_Fz-GFM&vet=12ahUKEwi2irP4lKaBAxU3rycCHXVACUAQMygSegQIARBp..i&imgrefurl=https%3A%2F%2Fmedium.com%2Fstar-gazers%2Fpramp-get-different-numbers-algorithm-6f3f9d64413c&docid=Iv9588qCIo6yAM&w=1281&h=716&itg=1&q=animated%20coding%20gif&ved=2ahUKEwi2irP4lKaBAxU3rycCHXVACUAQMygSegQIARBp)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxyalet&label=Profile%20views&color=0e75b6&style=flat" alt="mxyalet" /> </p>
 
 - 💬 Ask me about **Java, Kotlin**
